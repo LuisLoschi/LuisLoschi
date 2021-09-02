@@ -2,7 +2,7 @@
 
 🎓 I'm 2rd year undergraduate-student in embedded systems at FATEC jundiai.
 
- 📚 I’m currently learning about how to program microcontrollers and microprocessors both in hardware and software.
+ 📚 I’m currently learning about how to program microcontrollers and microprocessors, from hardware development to software management.
  
  💻 I'm currently studying front-end technologies.
 
