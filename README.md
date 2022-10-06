@@ -1,18 +1,20 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"> Hello There !!
 
-🎓 I'm 2rd year undergraduate-student in embedded systems at FATEC jundiai.
+🎓 I'm 3rd year undergraduate-student in embedded systems at FATEC jundiai.
 
  📚 I’m currently learning about how to program microcontrollers and microprocessors.
  
  💻 I'm currently studying front-end technologies.
 
+<!---
 ## Languages and tools 🚀
 
 <div style="display: inline-block" >
-  <img height="160"  src="https://github-readme-stats.vercel.app/api?username=LuisLoschi&show_icons=true&theme=tokyonight" >
+  <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi" >
 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi&layout=compact&theme=tokyonight">
 </div>
+ --->
  
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px">
 
