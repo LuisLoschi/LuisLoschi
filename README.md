@@ -36,7 +36,7 @@
  
  ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"> Hello There !!
 
-🎓 I'm 3rd year undergraduate-student in embedded systems at FATEC jundiai.
+🎓 I'm graduate in embedded systems at FATEC jundiai.
 
 📚 I'm currently studying front-end technologies.
 
