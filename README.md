@@ -1,8 +1,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"> Olá !!
 
-🎓 Estou cursando o 3° ano em Tecnologia em sistemas embarcados na Fatec-Jundiai.
+🎓 Formado em Tecnologia em sistemas embarcados na Fatec-Jundiai.
  
-📚 Atualmente estou estudando tecnologias front-end.
+📚 Atualmente estou estudando tecnologias front-end e back-end.
 
    ## Linguagens e ferramentas 🚀
 
