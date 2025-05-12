@@ -1,74 +1,41 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"> Olá !!
+ # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25px"> Hello! 
 
-🎓 Formado em Tecnologia em sistemas embarcados na Fatec-Jundiai.
- 
-📚 Atualmente estou estudando tecnologias front-end e back-end.
+I'm Luis, a passionate tech enthusiast who believes in using technology to solve real-world problems.  
 
-   ## Linguagens e ferramentas 🚀
+- 🎓 I'm graduate in embedded systems at FATEC jundiai
+- 📚 I'm currently studying back-end technologies 
+- 👯 I’m looking to collaborate on open source/commercial projects
 
-  <div style="display: inline-block" >
-   <!-- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi" > -->
+<!-- 
+<img height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi&theme=midnight-purple" />
+-->
 
-   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi&layout=compact&theme=midnight-purple">
-  </div>
+## 💻 Skills 
 
- ## Entre em contato <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px">
+<div>
+ <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+ <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react" />
+ <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=f5f5f5"/>
+ <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Mysql-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
- <div >
- <a href="https://www.instagram.com/luisloschi_/" target="_blank"> 
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> 
- </a>
- <a href="mailto:gustavoloschi362@gmail.com" target="_blank"> 
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> 
- </a>
- <a href="https://www.linkedin.com/in/luis-loschi/" target="_blank"> 
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
- </a>
- </div>
+<br />
 
-<!-- ENGLISH -->
-<br>
-<details> 
-   <summary> 
-    <strong>Read this profile in English </strong>
-    <img src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg" width=20 >
-   </summary>
- 
- ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="28px"> Hello There !!
-
-🎓 I'm graduate in embedded systems at FATEC jundiai.
-
-📚 I'm currently studying front-end technologies.
-
-
-## Languages and tools 🚀
-
-  <div style="display: inline-block" >
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLoschi&theme=midnight-purple" > 
-  </div>
-
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="18px"> Contact me:
 
  <div >
-   <a href="https://www.instagram.com/luisloschi_/" target="_blank"> 
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> 
+   <a href="https://www.linkedin.com/in/luis-loschi/" target="_blank"> 
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
    </a>
    <a href="mailto:gustavoloschi362@gmail.com" target="_blank"> 
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/> 
    </a>
-   <a href="https://www.linkedin.com/in/luis-loschi/" target="_blank"> 
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> 
+   <a href="https://www.instagram.com/luisloschi_/" target="_blank"> 
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/> 
    </a>
  </div>
-
-</details> 
- 
-<!---
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-LuisLoschi/LuisLoschi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
