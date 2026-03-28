@@ -2,7 +2,7 @@
 
 I'm Luis, a passionate tech enthusiast who believes in using technology to solve real-world problems.  
 
-- 🎓 I'm graduate in embedded systems at FATEC jundiai
+- 🎓 I'm currently studing postgraduate degree in AI Science at FIAP
 - 📚 I'm currently studying back-end technologies 
 - 👯 I’m looking to collaborate on open source/commercial projects
 
